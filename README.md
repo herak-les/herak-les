@@ -1,4 +1,10 @@
-## Hi there 👋
+# About me
+
+Hi, I'm Médéric Dallet, a junior french software engineer coding in C# and Python :) 
+
+I am currently working on a personnal project called WKBot, which is a discord bot coded in Python. This bot is intended to be used in one of my discord servers and its purpose is to give insights about League of Legends games played by the players of my team.
+
+If you are interested in seeing the source code of the WKBot, please feel free to send me a dm on discord at **herakles__**.
 
 <!--
 **herak-les/herak-les** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
